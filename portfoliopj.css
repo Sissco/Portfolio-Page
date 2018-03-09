@@ -1,0 +1,160 @@
+body {
+    position: relative;
+    font-family: Lato;
+    font-size: 16px;
+  }
+  #header {
+    padding-top: 50px;
+    padding-bottom: 40px;
+    background-image: url(https://images.unsplash.com/photo-1493323037435-fbca7a8a2af4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e91822e50c2e3cf71b1b1637fa1d5b15&auto=format&fit=crop&w=1489&q=80);
+    margin-left: 0px;
+    margin-right: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
+    color: #757575;
+  }
+  .page-header-small {
+    color: #BDBDBD;
+  }
+  #webdevportfolio {
+    padding-top: 50px;
+    padding-bottom: 40px;
+    background-image: url(https://images.unsplash.com/photo-1517134062979-e1234be8a085?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=def26b2b0dff886804211f7dc11219e5&auto=format&fit=crop&w=1500&q=80);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #e0e0e0;
+  }
+  #hairportfolio {
+   
+    padding-top: 50px;
+    padding-bottom: 40px;
+    background-image: url(https://images.unsplash.com/photo-1446051642017-6d07a440087f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c429dda7f8428412581e551eef882534&auto=format&fit=crop&w=1502&q=80);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #f5f5f5;
+  }
+  hr {
+    border: 0;
+    margin: 10px;
+    height: 1px;
+    background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.75),
+      rgba(0, 0, 0, 0)
+    );
+  }
+  img.img-circle {
+    padding: 15px;
+    float: left;
+  }
+  h1 {
+    text-align: right;
+    float: right;
+    margin-bottom: 20px;
+  }
+  .row display-flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .photo {
+    width: 320px;
+    margin: 15px auto;
+  }
+  .image {
+    width: 100%;
+    height: 370px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .image1 {
+    background-image: url(https://s5.postimg.org/iwvk9d4g7/Screen_Shot_2018-03-04_at_18.07.07.png);
+  }
+  .image2 {
+    background-image: url();
+  }
+  .image3 {
+    background-image: url();
+  }
+  .image4 {
+    background-image: url(https://s5.postimg.org/pe4thr3lz/13694407_1107258596014159_1173974069_n.jpg);
+  }
+  .image5 {
+    background-image: url(https://s5.postimg.org/pe4thr3lz/13694407_1107258596014159_1173974069_n.jpg);
+  }
+  .image6 {
+    background-image: url(https://s5.postimg.org/pe4thr3lz/13694407_1107258596014159_1173974069_n.jpg);
+  }
+  .image7 {
+    background-image: url(https://s5.postimg.org/pe4thr3lz/13694407_1107258596014159_1173974069_n.jpg);
+  }
+  .image8 {
+    background-image: url(https://s5.postimg.org/x6vh9qp0n/13731356_1156377934429677_239305928_n.jpg);
+  }
+  .image9 {
+    background-image: url(https://s5.postimg.org/hy5jvzq7b/IMG_0756.jpg);
+  }
+  .image10 {
+    background-image: url(https://s5.postimg.org/auxogdshj/IMG_0194.jpg);
+  }
+  .image11 {
+    background-image: url(https://s5.postimg.org/7o34wrv6v/IMG_4159.png);
+  }
+  .image12 {
+    background-image: url(https://s5.postimg.org/v2b48nfo7/13774418_1499167240109195_2146924512_n.jpg);
+  }
+  .image13 {
+    background-image: url(https://s5.postimg.org/4xyed9qfr/IMG_2773.jpg);
+  }
+  .image14 {
+    background-image: url(https://s5.postimg.org/q3nlu5tvr/IMG_1923.jpg);
+  }
+  .image15 {
+    background-image: url(https://s5.postimg.org/4h8ld485z/IMG_1354.jpg);
+  }
+  #social #container {
+    text-align: center;
+  }
+  #social #container ul {
+    float: center;
+    padding: 0px;
+  }
+  #social #container ul li {
+    padding-left: 10px;
+    list-style-type: none;
+    display: inline-block;
+  }
+  .fa {
+    color: black;
+  }
+  .fa-free-code-camp:hover {
+      color: #9E9E9E;
+  }
+  .fa-github-square:hover {
+      color: #9E9E9E;
+  }
+  .fa-instagram:hover {
+    color: #9E9E9E;
+  }
+  .fa-facebook-square:hover {
+      color: #9E9E9E;
+  }
+  .fa-linkedin:hover {
+      color: #9E9E9E;
+  }
+  a {
+    color: #212121;
+  }
+  a.footer:hover {
+    color: #9E9E9E;
+  }
